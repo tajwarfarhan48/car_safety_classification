@@ -30,9 +30,9 @@ The model takes in the following attributes:
   - 4
   - more
 - **lug_boot -** The relative size of the luggage boot. Classified as:
-  - low
+  - small
   - med
-  - high
+  - big
 - **safety -** The estimated safety of the car. Classified as:
   - low
   - med
