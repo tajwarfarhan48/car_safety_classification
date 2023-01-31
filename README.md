@@ -33,6 +33,10 @@ The model takes in the following attributes:
   - low
   - med
   - high
+- **safety -** The estimated safety of the car. Classified as:
+  - low
+  - med
+  - high
 
 The output of the model is the acceptability of the car. There are 4 possible classifications:
 - unacc (Unacceptable)
