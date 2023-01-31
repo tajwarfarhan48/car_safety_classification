@@ -2,8 +2,10 @@
 
 A machine learning model made using sklearn that predicts the acceptability of cars based on a multitude of input factors. To test the model in your device, run the following code in your terminal (**Important: installing Jupyter Notebook in your machine may be required to properly run the files in the project**)
 
+```
 git clone https://github.com/tajwarfarhan48/car_safety_classification.git
 cd car_safety_classification
+```
 
 ## Model Description
 
